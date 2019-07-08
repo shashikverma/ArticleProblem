@@ -1,0 +1,5 @@
+com\example\articles\service\ArticleService.class
+com\example\articles\ArticlesApplication.class
+com\example\articles\entity\Article.class
+com\example\articles\config\SwaggerConfig.class
+com\example\articles\controller\ArticleController.class
